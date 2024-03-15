@@ -1,2 +1,2 @@
 # README.md
-README for Github Profile
+Computer Science Student @ University of Leeds
