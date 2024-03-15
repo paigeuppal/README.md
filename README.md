@@ -1,2 +1,2 @@
 # README.md
-Computer Science Student @ University of Leeds
+ 📕 Computer Science Student @ University of Leeds
